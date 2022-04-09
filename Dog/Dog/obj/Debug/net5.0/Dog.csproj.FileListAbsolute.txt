@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\POO\Dog\Dog\bin\Debug\net5.0\Dog.exe
+C:\Users\Usuario\Documents\POO\Dog\Dog\bin\Debug\net5.0\Dog.deps.json
+C:\Users\Usuario\Documents\POO\Dog\Dog\bin\Debug\net5.0\Dog.runtimeconfig.json
+C:\Users\Usuario\Documents\POO\Dog\Dog\bin\Debug\net5.0\Dog.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\POO\Dog\Dog\bin\Debug\net5.0\Dog.dll
+C:\Users\Usuario\Documents\POO\Dog\Dog\bin\Debug\net5.0\Dog.pdb
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.AssemblyInfo.cs
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.dll
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\refint\Dog.dll
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.pdb
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\Dog.genruntimeconfig.cache
+C:\Users\Usuario\Documents\POO\Dog\Dog\obj\Debug\net5.0\ref\Dog.dll
