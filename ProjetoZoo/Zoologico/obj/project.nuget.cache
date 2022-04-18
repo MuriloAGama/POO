@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJmn5r/ZNICg0lJPSKoUY0Lmt3+9KKhQcCWWu/8T4e0WWR6j7J1KtjaiSIZKg8h9q1lBLKXjZgsInUwpT//Tqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Herança - Polimorfismo\\Zoologico\\Zoologico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

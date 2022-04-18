@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\bin\Debug\net5.0\Zoologico.exe
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\bin\Debug\net5.0\Zoologico.deps.json
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.json
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\bin\Debug\net5.0\Zoologico.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\bin\Debug\net5.0\Zoologico.dll
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\bin\Debug\net5.0\Zoologico.pdb
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.dll
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\refint\Zoologico.dll
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.pdb
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\Zoologico.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Herança - Polimorfismo\Zoologico\obj\Debug\net5.0\ref\Zoologico.dll
